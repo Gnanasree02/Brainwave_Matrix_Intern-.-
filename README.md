@@ -25,13 +25,10 @@ A simple *Day Planner* web application that allows users to add tasks along with
 - *HTML5* – Structure of the web page  
 - *CSS3* – Styling and layout  
 - *JavaScript* – Adding interactivity  
-## Acknowledgment
-
-Special thanks to Brainwave Matrix Solution for the opportunity to develop this project as part of their internship program. Looking forward to the next challenge!
 
 
 
-# 🚀 Shopfussion - E-Commerce Website
+## 🚀 Shopfussion - E-Commerce Website
 
 ## 📌 Introduction
 
