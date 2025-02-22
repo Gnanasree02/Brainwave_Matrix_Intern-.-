@@ -1,5 +1,5 @@
 # Brainwave_Matrix_Intern Repository
-Welcome to the Brainwave_Matrix_Intern repository!
+Welcome to the Brainwave_Matrix_Intern Task 2 repository!
 
 This repository showcases code developed by [@Gnanasree02](https://www.linkedin.com/in/gnanasree-arigala-529797296) during an internship at Brainwave Matrix Solutions. It includes tasks assigned as part of the internship program, demonstrating skills in Web Development.
 
